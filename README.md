@@ -1,6 +1,6 @@
 ### Hi there My Name is Om Singh Thakur👋
 - 🔭 I’m currently Pursuing my BTech Degree from Indian Institute Of Information Technology Nagpur (IIITN) .
-- - 👯 I’m Full Stack Web Developer (MERN STACK) .
+- 👯 I’m Full Stack Web Developer (MERN STACK) .
 - 🌱 I have a good Knowledge of DSA and solved many questions in different platforms.
 
 <!--
